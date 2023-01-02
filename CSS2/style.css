@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.d1{
+
+    width: 50%;
+    height: 300px;
+    background-color: red;
+}
+.d2{
+    width: 50%;
+    height: 300px;
+    background-color: black;
+}
+.d3{
+    width: 50%;
+    height: 300px;
+    background-color: pink;
+}
